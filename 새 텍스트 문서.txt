@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "첫커밋"
+git remote add origin http~~~~
+git remote -v
+
+git  remote remove myfirst
